@@ -1,5 +1,7 @@
 # fuse8_2025
 
+GitHub Pages: https://anilopchisak.github.io/fuse8_2025/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
