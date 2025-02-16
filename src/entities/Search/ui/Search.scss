@@ -1,0 +1,36 @@
+#search-section {
+  max-width: 626px;
+  margin-bottom: 100px;
+  text-align: center;
+  width: 100%;
+
+  #search-input {
+    width: 100%;
+    height: 64px;
+    padding: 19px 25px;
+    border: none;
+    outline: none;
+    box-shadow: var(--box-shadow-search);
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26.4px;
+    color: var(--color-blue);
+    position: relative;
+
+    &::placeholder {
+      color: var(--color-blue);
+    }
+  }
+
+  label {
+    display: block;
+    margin: 13px 0 0 39px;
+    width: fit-content;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.5px;
+    color: var(--color-black);
+  }
+}

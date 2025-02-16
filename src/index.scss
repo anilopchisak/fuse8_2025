@@ -1,0 +1,16 @@
+:root {
+  --background-color: #FFFFFF;
+  --color-blue: #656EC2;
+  --color-black: #282626;
+  --color-gray: #767676;
+  --color-green: #267504;
+  --color-red: #820a0a;
+  --box-shadow-search: 0px 7px 12px 0px rgba(100, 100, 111, 0.2);
+  --box-shadow-card: 0px 7px 25px 0px rgba(100, 100, 111, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
